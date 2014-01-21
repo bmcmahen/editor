@@ -1,0 +1,9 @@
+{
+  "name": "yue.css",
+  "description": "Readable content stylish.",
+  "version": "0.1.0",
+  "styles": [
+    "yue.css"
+  ],
+  "repo": "https://raw.github.com/lepture/yue.css"
+}

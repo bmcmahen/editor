@@ -1,0 +1,18 @@
+#editor {
+  outline: none;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+#title {
+  outline: none;
+  padding: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.ingredient {
+  padding-left: 40px;
+  font-weight: 600;
+}

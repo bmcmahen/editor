@@ -1,0 +1,20 @@
+{
+  "name": "on-deselect",
+  "repo": "bmcmahen/on-deselect",
+  "description": "emit an event when a selection is deselected. pairs with yields/on-select",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/event": "*",
+    "component/raf": "*",
+    "bmcmahen/text-selection": "*",
+    "bmcmahen/modifier": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}

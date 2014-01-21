@@ -1,0 +1,25 @@
+{
+  "name": "mydb",
+  "version": "3.4.8",
+  "description": "mydb client component",
+  "keywords": [
+    "realtime",
+    "db"
+  ],
+  "scripts": [
+    "index.js",
+    "document.js"
+  ],
+  "dependencies": {
+    "learnboost/engine.io-client": "0.7.10",
+    "cloudup/mongo-query": "*",
+    "cloudup/dot": "*",
+    "component/emitter": "*",
+    "component/type": "*",
+    "component/clone": "*",
+    "component/json": "*",
+    "visionmedia/superagent": "0.15.1",
+    "visionmedia/debug": "*"
+  },
+  "repo": "https://raw.github.com/bmcmahen/mydb-client"
+}

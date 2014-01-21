@@ -1,0 +1,10 @@
+.tip-inner a {
+  font-size: 20px;
+  padding: 5px;
+  color: white;
+}
+
+.tip-inner a.active {
+  font-weight: bold;
+  color: blue;
+}

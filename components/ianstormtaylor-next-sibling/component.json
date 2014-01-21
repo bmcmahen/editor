@@ -1,0 +1,22 @@
+{
+  "name": "next-sibling",
+  "repo": "ianstormtaylor/next-sibling",
+  "description": "Get the next sibling of an element.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "element",
+    "traverse",
+    "next",
+    "sibling"
+  ],
+  "dependencies": {
+    "yields/traverse": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

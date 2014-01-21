@@ -1,0 +1,15 @@
+{
+  "name": "dom-support",
+  "repo": "timoxley/dom-support",
+  "description": "Test browser rendering/styling quirks. Extracted from jQuery",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "enyo/domready": "*",
+    "timoxley/assert": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}

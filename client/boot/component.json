@@ -1,0 +1,17 @@
+{
+  "name": "boot",
+  "description": "boot component",
+  "dependencies": {
+    "bmcmahen/mydb-client": "*",
+    "bmcmahen/transit": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "local": [
+    "editor",
+    "db"
+  ]
+}

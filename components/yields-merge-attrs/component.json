@@ -1,0 +1,20 @@
+{
+  "name": "merge-attrs",
+  "repo": "yields/merge-attrs",
+  "description": "Merge attributes of b into a",
+  "version": "0.0.1",
+  "keywords": [
+    "merge",
+    "attrs"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "component/assert": "*",
+    "visionmedia/mocha": "*",
+    "visionmedia/mocha-matrix": "*"
+  }
+}

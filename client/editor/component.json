@@ -1,0 +1,39 @@
+{
+  "name": "editor",
+  "description": "primary editor",
+  "dependencies": {
+    "lepture/yue.css": "*",
+    "yields/k": "*",
+    "cristiandouce/tags-free": "*",
+    "bmcmahen/transit": "*",
+    "component/dom": "*",
+    "bmcmahen/view": "*",
+    "component/aurora-tip": "*",
+    "component/keyname": "*",
+    "component/emitter": "*",
+    "bmcmahen/selection-range": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "editor.js",
+    "title.js"
+  ],
+  "styles": [
+    "styles/editor.css"
+  ],
+  "local": [
+    "editable-view",
+    "redact",
+    "notes",
+    "range",
+    "paragraphs",
+    "history"
+  ],
+  "remotes": [],
+  "templates": [
+    "templates/editor.html",
+    "templates/title.html"
+  ]
+}

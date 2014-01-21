@@ -1,0 +1,14 @@
+{
+  "name": "word-count",
+  "repo": "bmcmahen/word-count",
+  "description": "get a word-count from a string",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

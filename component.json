@@ -1,0 +1,14 @@
+{
+  "name": "wordspur",
+  "description": "share words",
+  "paths": [
+    "client"
+  ],
+  "local": [
+    "boot"
+  ],
+  "remotes": [],
+  "dependencies": {
+    "yields/redact-popover": "*"
+  }
+}

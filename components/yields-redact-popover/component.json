@@ -1,0 +1,31 @@
+{
+  "name": "redact-popover",
+  "repo": "yields/redact-popover",
+  "demo": "http://yields.github.io/redact-popover/index.html",
+  "description": "medium inspired editor popover",
+  "keywords": [
+    "medium",
+    "popover",
+    "tooltip",
+    "tip",
+    "redact"
+  ],
+  "version": "0.1.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "yields/get-selected-text": "*",
+    "component/emitter": "*",
+    "component/events": "*",
+    "component/trim": "*",
+    "component/tip": "*",
+    "yields/slug": "*",
+    "bmcmahen/monitor-text-selection": "*"
+  },
+  "development": {
+    "component/aurora-tip": "*"
+  }
+}

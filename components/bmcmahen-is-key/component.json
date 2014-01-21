@@ -1,0 +1,17 @@
+{
+  "name": "is-key",
+  "repo": "bmcmahen/is-key",
+  "description": "determine if a particular key was pressed in an event handler",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "yields/keycode": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}

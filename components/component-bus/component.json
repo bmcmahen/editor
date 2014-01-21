@@ -1,0 +1,13 @@
+{
+  "name": "bus",
+  "description": "Application-wide event bus",
+  "version": "0.0.2",
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repo": "https://raw.github.com/component/bus"
+}

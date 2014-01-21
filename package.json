@@ -1,0 +1,13 @@
+{
+  "name": "word-spur",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.3",
+    "hbs": "~2.3.0",
+    "mydb-preload": "~0.1.0"
+  }
+}

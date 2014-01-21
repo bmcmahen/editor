@@ -1,0 +1,14 @@
+{
+  "name": "text-selection",
+  "repo": "bmcmahen/text-selection",
+  "description": "determine if a text selection currently exists",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

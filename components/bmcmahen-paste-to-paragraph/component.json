@@ -1,0 +1,14 @@
+{
+  "name": "paste-to-paragraph",
+  "repo": "bmcmahen/paste-to-paragraph",
+  "description": "create a set of paragraphs <p> from the clipboard data",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mongo-query",
+  "version": "0.3.1",
+  "scripts": [
+    "index.js",
+    "mods.js",
+    "filter.js",
+    "ops.js"
+  ],
+  "dependencies": {
+    "component/type": "*",
+    "component/object": "*",
+    "visionmedia/debug": "*",
+    "cloudup/dot": "*",
+    "cloudup/mongo-eql": "*"
+  },
+  "devDependencies": {
+    "visionmedia/mocha": "*",
+    "learnboost/expect.js": "*"
+  },
+  "repo": "https://raw.github.com/cloudup/mongo-query"
+}

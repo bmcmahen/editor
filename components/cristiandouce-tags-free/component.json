@@ -1,0 +1,13 @@
+{
+  "name": "tags-free",
+  "repo": "cristiandouce/tags-free",
+  "description": "Strips tags from raw html strings.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

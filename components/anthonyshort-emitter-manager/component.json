@@ -1,0 +1,18 @@
+{
+  "name": "emitter-manager",
+  "repo": "anthonyshort/emitter-manager",
+  "description": "Inverse event binding for component-emitter",
+  "version": "0.3.0",
+  "keywords": [],
+  "dependencies": {
+    "anthonyshort/map": "master"
+  },
+  "development": {
+    "component/emitter": "*",
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

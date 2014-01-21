@@ -1,0 +1,18 @@
+{
+  "name": "editable-view",
+  "description": "helpers for dealing with contenteditable",
+  "dependencies": {
+    "component/emitter": "*",
+    "bmcmahen/auto-save": "*",
+    "bmcmahen/selection-range": "*",
+    "bmcmahen/is-key": "*",
+    "bmcmahen/view": "*",
+    "component/inherit": "*",
+    "bmcmahen/cursor-within": "*",
+    "component/dom": "*",
+    "matthewmueller/uid": "*"
+  },
+  "main": "index.js",
+  "scripts": ["index.js"],
+  "local": ["editable-placeholder"]
+}

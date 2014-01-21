@@ -1,0 +1,15 @@
+{
+  "name": "get-selected-text",
+  "repo": "yields/get-selected-text",
+  "description": "get user selected text",
+  "keywords": [
+    "selection",
+    "text"
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

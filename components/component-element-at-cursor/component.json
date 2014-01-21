@@ -1,0 +1,17 @@
+{
+  "name": "element-at-cursor",
+  "repo": "component/element-at-cursor",
+  "description": "get the element at the cursor, or common ancestor of selection",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "component/domify": "*",
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

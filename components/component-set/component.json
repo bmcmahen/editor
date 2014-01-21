@@ -1,0 +1,15 @@
+{
+  "name": "set",
+  "version": "1.0.0",
+  "description": "set container",
+  "keywords": [
+    "set"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "development": {
+    "component/assert": "*"
+  },
+  "repo": "https://raw.github.com/component/set"
+}

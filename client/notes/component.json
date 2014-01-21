@@ -1,0 +1,12 @@
+{
+  "name": "notes",
+  "description": "note management",
+  "dependencies": {
+    "cristiandouce/tags-free": "*",
+    "component/create-element": "*",
+    "bmcmahen/selection-range": "*",
+    "bmcmahen/string-splice": "*"
+  },
+  "main": "index.js",
+  "scripts": [ "index.js" ]
+}

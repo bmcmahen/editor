@@ -1,0 +1,19 @@
+{
+  "name": "mutant",
+  "repo": "bmcmahen/mutant",
+  "description": "a simple api for the MutationObserver",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/matches-selector": "*",
+    "component/emitter": "*",
+    "bmcmahen/mutation-property": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}

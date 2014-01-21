@@ -1,0 +1,31 @@
+{
+  "name": "editable",
+  "repo": "yields/editable",
+  "description": "Fixing contenteditable.",
+  "version": "0.1.0",
+  "keywords": [
+    "editable",
+    "content",
+    "content editable sucks"
+  ],
+  "dependencies": {
+    "bmcmahen/history": "*",
+    "component/emitter": "*",
+    "component/events": "*",
+    "bmcmahen/auto-save": "*",
+    "bmcmahen/selection-range": "*",
+    "bmcmahen/monitor-text-selection": "*",
+    "yields/editable-placeholder": "*",
+    "bmcmahen/is-key": "*",
+    "bmcmahen/cursor-move": "*"
+  },
+  "development": {
+    "yields/k": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}

@@ -1,0 +1,19 @@
+{
+  "name": "monitor-text-selection",
+  "repo": "bmcmahen/monitor-text-selection",
+  "description": "emit events for selection and end-selection of text for a given element",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "yields/on-select": "*",
+    "component/emitter": "*",
+    "bmcmahen/on-deselect": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}

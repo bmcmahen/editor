@@ -1,0 +1,9 @@
+{
+  "name": "db",
+  "description": "connect to mydb",
+  "dependencies": {
+    "bmcmahen/mydb-client": "*"
+  },
+  "main": "index.js",
+  "scripts": ["index.js"]
+}

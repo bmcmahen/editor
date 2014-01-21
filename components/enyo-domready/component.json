@@ -1,0 +1,12 @@
+{
+  "name": "domready",
+  "repo": "enyo/domready",
+  "description": "A domready component.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ]
+}

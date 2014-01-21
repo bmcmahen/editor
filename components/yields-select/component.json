@@ -1,0 +1,42 @@
+{
+  "name": "select",
+  "repo": "yields/select",
+  "description": "modern <select>.",
+  "demo": "http://yields.github.io/select/index.html",
+  "version": "0.5.1",
+  "keywords": [
+    "select",
+    "chosen",
+    "select2"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.css"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "dependencies": {
+    "ianstormtaylor/previous-sibling": "*",
+    "ianstormtaylor/next-sibling": "*",
+    "component/debounce": "*",
+    "component/pillbox": "*",
+    "component/emitter": "*",
+    "component/keyname": "*",
+    "component/classes": "*",
+    "component/events": "*",
+    "component/domify": "*",
+    "component/query": "*",
+    "component/each": "*"
+  },
+  "development": {
+    "visionmedia/mocha-matrix": "*",
+    "visionmedia/mocha": "*",
+    "component/assert": "*",
+    "component/dom": "*"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "paragraphs",
+  "description": "paragraph collection",
+  "dependencies": {
+    "bmcmahen/within-selection": "*",
+    "bmcmahen/cursor-within": "*",
+    "component/emitter": "*",
+    "bmcmahen/selection-range": "*",
+    "component/dom": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "local": [
+    "paragraph"
+  ],
+  "remotes": []
+}

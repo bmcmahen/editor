@@ -1,0 +1,22 @@
+{
+  "name": "previous-sibling",
+  "repo": "ianstormtaylor/previous-sibling",
+  "description": "Get the previous sibling of an element.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "element",
+    "traverse",
+    "previous",
+    "sibling"
+  ],
+  "dependencies": {
+    "yields/traverse": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}

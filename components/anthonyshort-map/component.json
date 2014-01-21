@@ -1,0 +1,15 @@
+{
+  "name": "map",
+  "repo": "anthonyshort/map",
+  "description": "Simple map, similar to ES6 map",
+  "version": "0.0.2",
+  "keywords": [
+    "collection"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}

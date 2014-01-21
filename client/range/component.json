@@ -1,0 +1,13 @@
+{
+  "name": "range",
+  "description": "range/selection utility functions",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "component/inherit": "*",
+    "bmcmahen/selection-range": "*"
+  },
+  "remotes": []
+}

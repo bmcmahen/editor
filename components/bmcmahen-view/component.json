@@ -1,0 +1,20 @@
+{
+  "name": "view",
+  "repo": "bmcmahen/view",
+  "description": "a simple view for use with component/reactive",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {
+    "component/dom": "*",
+    "component/emitter": "*",
+    "anthonyshort/emitter-manager": "*",
+    "component/inherit": "*",
+    "component/reactive": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

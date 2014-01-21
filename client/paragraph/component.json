@@ -1,0 +1,24 @@
+{
+  "name": "paragraph",
+  "description": "paragraph model",
+  "dependencies": {
+    "component/emitter": "*",
+    "component/bus": "*",
+    "component/dom": "*",
+    "component/type": "*",
+    "matthewmueller/uid": "*",
+    "component/events": "*",
+    "bmcmahen/selection-range": "*",
+    "component/inherit": "*",
+    "component/domify": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "local": [
+    "range"
+  ],
+  "remotes": []
+}

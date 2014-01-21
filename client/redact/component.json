@@ -1,0 +1,16 @@
+{
+  "name": "redact",
+  "description": "editor popover ala medium.com",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "yields/redact-popover": "*",
+    "component/inherit": "*",
+    "component/dom": "*"
+  },
+  "styles": [
+    "redact.css"
+  ]
+}

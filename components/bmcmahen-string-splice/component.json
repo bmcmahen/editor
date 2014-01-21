@@ -1,0 +1,14 @@
+{
+  "name": "string-splice",
+  "repo": "bmcmahen/string-splice",
+  "description": "a simple splice utility for strings",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

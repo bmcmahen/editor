@@ -1,0 +1,14 @@
+{
+  "name": "history",
+  "description": "history helper",
+  "dependencies": {
+    "component/emitter": "*"
+    },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "local": [],
+  "remotes": []
+}
